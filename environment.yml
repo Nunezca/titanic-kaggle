@@ -1,0 +1,13 @@
+name: titanic-env
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.12
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+prefix: C:\Users\Usuario\miniconda3\envs\titanic-env
